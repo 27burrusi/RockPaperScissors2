@@ -1,0 +1,19 @@
+.container{
+margin: auto;
+width: 80%;
+text-align: center;
+}
+.btn{
+display: block;
+margin: auto;
+text-align: center;
+width: 20%;
+
+}
+body{
+background-color:seagreen;
+text-align: center;
+}
+h1{
+ color:black
+}
